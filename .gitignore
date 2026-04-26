@@ -209,17 +209,4 @@ __marimo__/
 __pycache__/
 .pytest_cache/
 .vscode/
-*.log
-*.exe
-allure-results/
-allure-report/
-screenshots/
-
-.pytest_cache/
-allure-results/
-
 venv/
-__pycache__/
-.pytest_cache/
-allure-results/
-.env
